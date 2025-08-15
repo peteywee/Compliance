@@ -1,0 +1,3 @@
+Security Policy – GLGS
+Effective Date: August 2025
+[Outlines encryption, incident response, and access control. Sources: NIST SP 800-53]
